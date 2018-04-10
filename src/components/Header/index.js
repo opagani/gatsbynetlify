@@ -4,7 +4,8 @@ import Link from 'gatsby-link'
 import styled from 'styled-components'
 import Img from 'gatsby-image'
 
-import logo from '../../images/logo.svg'
+// import logo from '../../images/logo.svg'
+import logo from '../../images/oscar_com.jpg'
 
 console.log(logo)
 
