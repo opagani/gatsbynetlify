@@ -10,6 +10,7 @@
     "gatsby-plugin-react-helmet": "^2.0.8",
     "gatsby-plugin-sharp": "^1.6.41",
     "gatsby-plugin-styled-components": "^2.0.9",
+    "gatsby-source-contentful": "^2.0.15",
     "gatsby-source-filesystem": "^1.5.27",
     "gatsby-transformer-remark": "^1.7.39",
     "gatsby-transformer-sharp": "^1.6.22",

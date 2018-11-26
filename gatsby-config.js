@@ -26,6 +26,12 @@ module.exports = {
         excerpt_separator:  `<!-- end -->`
       }
     },
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        host: process.env.GATSBY_CONTENTFUL_HOST
+      }
+    },
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp"
   ]
